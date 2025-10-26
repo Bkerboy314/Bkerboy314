@@ -3,6 +3,8 @@ I am the main programmer of Blockopolis, a modded version of ElectraMod.
 
 I like to work on my website in my spare time, you can check it out [here](https://loganbakerbl.vercel.app/home.html).
 
+Fun Fact: I know more about HTML then Markdown
+
 <!--
 **Bkerboy314/Bkerboy314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
